@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+matplotlib
+scikit-learn
+pmdarima
+tensorflow
+openpyxl
+scipy
+protobuf==3.20.3
